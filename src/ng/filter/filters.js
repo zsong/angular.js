@@ -547,5 +547,5 @@ function replaceFilter($locale) {
       if(oldValues.indexOf(value) !== -1) return newValue;
     }
     return value;
-  }
+  };
 }
